@@ -6,6 +6,8 @@ Hello everyone hope you are doing well, Today i will write about our construct w
 
 HTML: 18%, CSS: 6.3%, JavaScript:78%
 
+Deploy link:- https://cool-mousse-c5ca04.netlify.app
+
 For making this project we have alloted a group by
 
 Masai School
